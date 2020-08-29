@@ -1,0 +1,1 @@
+consolo.log("信息")
